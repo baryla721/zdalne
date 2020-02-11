@@ -1,1 +1,2 @@
 # zdalne
+git pull
